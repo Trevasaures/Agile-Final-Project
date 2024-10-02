@@ -10,7 +10,7 @@ The scenario revolves around developing the backend product catalog for an e-com
 
 ## Scenario
 
-In this project, I assume the roles of **Product Owner**, **Scrum Master**, and **Developer**:
+In this project, I am assuming the roles of **Product Owner**, **Scrum Master**, and **Developer**:
 
 - **As Product Owner**: I create and prioritize user stories, organizing them into a product backlog.
 - **As Scrum Master**: I prepare the sprint milestone and ensure a subset of stories is ready for sprint execution.
