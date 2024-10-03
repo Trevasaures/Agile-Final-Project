@@ -14,7 +14,7 @@ In this project, I am assuming the roles of **Product Owner**, **Scrum Master**,
 
 - **As Product Owner**: I create and prioritize user stories, organizing them into a product backlog.
 - **As Scrum Master**: I prepare the sprint milestone and ensure a subset of stories is ready for sprint execution.
-- **As Developer**: I manage the sprint backlog, move user stories across the kanban board, and complete a simulated sprint.
+- **As a Developer**: I manage the sprint backlog, move user stories across the kanban board, and complete a simulated sprint.
 
 ---
 
